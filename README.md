@@ -28,7 +28,7 @@ For this project, we were interested in using the Seattle Airbnb Open Data to ga
 The notebook available here showcases work related to the above questions.  
 
 ## Results<a name="results"></a>
-
+ 
 The main findings of the code can be found at the post available [here](https://medium.com/@anneklaver1996).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
