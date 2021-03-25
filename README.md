@@ -17,7 +17,6 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 ## Project Motivation<a name="motivation"></a>
 
 For this project, we were interested in using the Seattle Airbnb Open Data to gain insight into:
-
 1. 
 2. 
 3. 
