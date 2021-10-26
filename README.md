@@ -39,7 +39,7 @@ The notebook available shows work related to the above questions.
 
 ## Results<a name="results"></a>
  
-The main findings of the code can be found at the blogpost available [here](https://medium.com/@anneklaver1996).
+The main findings of the code can be found at the blogpost available [here](https://medium.com/@anneklaver1996/analyzing-the-airbnb-seattle-dataset-following-the-crisp-dm-process-261e1b9e106c).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
