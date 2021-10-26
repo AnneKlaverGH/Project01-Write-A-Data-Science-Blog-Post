@@ -16,20 +16,30 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, we were interested in using the Seattle Airbnb Open Data to gain insight into:
+In this project, we analyse the AirBnb Seattle Dataset following the CRISP-DM process (Cross-Industry Standard
+Process for Data Mining), a standard for analyzing data that consists of six major phases:
 
-1. 
-2. 
-3. 
-4. 
+1.	Business Understanding
+2.	Data Understanding
+3.	Data Preparation
+4.	Modeling
+5.	Evaluation
+6.	Deployment
+
+For an initial data exploration and to gain a better business understanding of the domain, we will answer the following questions:
+
+1.	What is the distribution of prices among neighbourhoods?
+2.  Are there more conditions towards renters for renting expensive listings?
+3.  What are the aspects of a listing that correlate most with the price of a listing?
+4.	To what extent can we predict the market price for new listings?
 
 ## File Descriptions <a name="files"></a>
 
-The notebook available here showcases work related to the above questions.  
+The notebook available shows work related to the above questions.  
 
 ## Results<a name="results"></a>
  
-The main findings of the code can be found at the post available [here](https://medium.com/@anneklaver1996).
+The main findings of the code can be found at the blogpost available [here](https://medium.com/@anneklaver1996).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
